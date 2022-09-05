@@ -1,2 +1,2 @@
 #!/bin/bssh
-print "Hello world"
+fmt "Hello world"
